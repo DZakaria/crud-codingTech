@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "categories": "phone",
+      "tags": "tags1",
+      "id": 1
+    },
+    {
+      "categories": "phone",
+      "tags": "tags3",
+      "id": 3
+    },
+    {
+      "categories": "phone",
+      "tags": "tags4",
+      "id": 4
+    },
+    {
+      "categories": "",
+      "tags": "",
+      "id": 5
+    }
+  ]
+}
